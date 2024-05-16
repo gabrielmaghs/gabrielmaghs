@@ -1,9 +1,9 @@
-Olá! 
+Hello!
 
-Sou o Gabriel, 
+I'm Gabriel,
 
-Me graduando em Engenharia de Software,
+Graduating in Software Engineering,
 
-Durante meus estudos, adquiri experiência prática em desenvolvimento de software, utilizando linguagem C e python. Também tenho habilidades sólidas em estruturas de dados e algoritmos.
+During my studies, I gained practical experience in software development, using C and Python. I also have solid skills in data structures and algorithms.
 
-Procurando por Oportunidades, estou animado para colaborar em projetos desafiadores e contribuir para o crescimento de uma equipe inovadora. Estou aberto a oportunidades de estágio ou posição de entrada em empresas que valorizem a criatividade, o trabalho em equipe e o aprendizado contínuo.
+Looking for Opportunities, I am excited to collaborate on challenging projects and contribute to the growth of an innovative team. Internship or entry-level opportunities open in companies that value creativity, teamwork and continuous learning.
